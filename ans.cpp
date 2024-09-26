@@ -1,3 +1,9 @@
+NOte:
+To include cJson file 
+step-1:download cJson from github using the following link https://github.com/DaveGamble/cJSON
+after completing code compile as g++ ans.cpp cJSON.c -o ans
+
+
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
